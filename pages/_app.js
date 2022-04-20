@@ -26,6 +26,10 @@ function MyApp({ Component, pageProps }) {
           crossOrigin="anonymous"
           referrerPolicy="no-referrer"
         />
+        <link
+          rel="shortcut icon"
+          href="https://i0.wp.com/venturehacks.com/wp-content/uploads/2019/03/cropped-vh-favicon-v.png?ssl=1"
+        />
       </Head>
       <ChakraProvider>
         <Layout>

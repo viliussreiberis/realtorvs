@@ -30,7 +30,7 @@ const Search = ({ properties }) => {
         <Text>Search Property By Filters</Text>
         <Icon paddingLeft="2" w="7" as={BsFilter}></Icon>
       </Flex>
-      {searchFilters && <SearchFilters />}
+      <SearchFilters />
       <Text fontSize="2xl" p="4" fontWeight="bold">
         Properties {router.query.purpose}
       </Text>
