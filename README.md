@@ -1,3 +1,3 @@
-# Realtor website by Vilius Sreiberis
+# Realtor website 
 
 Filter houses and apartments by various parameters
